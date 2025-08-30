@@ -11,5 +11,5 @@ description: >
 
 theme: minima
 
-url: https://gabriellee-test.github.io\test
-
+url: "https://gabriellee-test.github.io"
+baseurl: "/test"
